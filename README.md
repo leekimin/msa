@@ -4,6 +4,10 @@
 
 ## 구성
 
-| 구분   | 이름                |
-| ------ | ------------------- |
-| Config | Spring Cloud Config |
+1. Spring Cloud Gateway
+
+1. Spring Cloud Config
+
+1. Eureka
+
+1.
