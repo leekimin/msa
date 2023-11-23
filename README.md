@@ -4,8 +4,6 @@
 
 ## 구성
 
-1. Spring Cloud Gateway
-
-1. Eureka Server / Client
-
-1. Spring Cloud Config
+| 구분   | 이름                |
+| ------ | ------------------- |
+| Config | Spring Cloud Config |
