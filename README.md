@@ -2,6 +2,8 @@
 
 맛보기 아키텍처
 
+---
+
 ## 구성
 
 ## Spring Cloud Gateway
