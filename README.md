@@ -5,7 +5,8 @@
 ## 구성
 
 ```
-Spring Cloud architecture highlights 기반으로 구축
+Spring Cloud architecture highlights 기반으로 샘플링
+[link](https://spring.io/cloud)
 ```
 
 ## API Gateway
@@ -13,6 +14,8 @@ Spring Cloud architecture highlights 기반으로 구축
 -   Spring Cloud Gateway
 
 ## Service Discovery
+
+-   Eureka
 
 ## Cloud Configuration
 
