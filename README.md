@@ -42,6 +42,7 @@ Spring Cloud architecture highlights 기반으로 샘플링
 
 ## Etc
 
+-   Kubenetes
 -   Jenkins
 -   gradle
 -   docker
