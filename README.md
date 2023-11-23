@@ -4,12 +4,12 @@
 
 ## 구성
 
-### 1. Spring Cloud Gateway
+### Spring Cloud Gateway
 
-### 1. Spring Cloud Config
+### Spring Cloud Config
 
-### 1. Eureka
+### Eureka
 
-### 1. MicroService
+### MicroService
 
-#### 1.1 Spring Boot Sample
+#### Spring Boot Sample
