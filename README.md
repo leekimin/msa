@@ -37,3 +37,11 @@ Spring Cloud architecture highlights 기반으로 샘플링
 ## Testing
 
 -   Spring Cloud Contract
+
+---
+
+## Etc
+
+-   Jenkins
+-   gradle
+-   docker
