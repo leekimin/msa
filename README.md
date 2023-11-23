@@ -6,12 +6,18 @@
 
 ## 구성
 
-## Spring Cloud Gateway
+```
+Spring Cloud architecture highlights 기반으로 구축
+```
 
-## Spring Cloud Config
+## API Gateway
 
-## Eureka
+## Service Discovery
 
-## MicroService
+## Cloud Configuration
 
-### Spring Boot Sample
+## Circuit Breaker
+
+## Tracing
+
+## Testing
