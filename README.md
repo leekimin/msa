@@ -16,11 +16,24 @@ Spring Cloud architecture highlights 기반으로 샘플링
 ## Service Discovery
 
 -   Eureka
+-   Spring Cloud Load Balancer
 
 ## Cloud Configuration
 
+-   Spring Cloud Config
+
 ## Circuit Breaker
+
+-   Spring Cloud Circuit Breaker
 
 ## Tracing
 
+-   Spring Cloud Sleuth
+-   Zipkin
+-   ElasticSearch
+-   Kibana
+-   Prometheus
+
 ## Testing
+
+-   Spring Cloud Contract
